@@ -27,7 +27,7 @@
             "hfov": 110,
             "yaw": 160,
             "type": "equirectangular",
-            "panorama": "img/vmiewerimage2.jpg",
+            "panorama": "img/exterior.jpg",
             "hotSpots": [
                 {
                     "pitch": 1,
