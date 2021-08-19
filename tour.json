@@ -30,7 +30,7 @@
             "panorama": "img/viewerimage2.jpg",
             "hotSpots": [
                 {
-                    "pitch": 2,
+                    "pitch": 3,
                     "yaw": 20,
                     "type": "scene",
                     "text": "Hub Interior",
