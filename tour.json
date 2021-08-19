@@ -31,7 +31,7 @@
             "hotSpots": [
                 {
                     "pitch": 1,
-                    "yaw": -80,
+                    "yaw": -180,
                     "type": "scene",
                     "text": "Hub Interior",
                     "sceneId": "interior"                   
