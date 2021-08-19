@@ -25,13 +25,13 @@
         "exterior": {
             "title": "Hub Exterior",
             "hfov": 110,
-            "yaw": -70,
+            "yaw": -50,
             "type": "equirectangular",
             "panorama": "img/viewerimage2.jpg",
             "hotSpots": [
                 {
                     "pitch": 1,
-                    "yaw": -70,
+                    "yaw": -50,
                     "type": "scene",
                     "text": "Hub Interior",
                     "sceneId": "interior"                   
