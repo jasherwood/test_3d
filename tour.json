@@ -24,7 +24,7 @@
 
         "exterior": {
             "title": "Hub Exterior",
-            "hfov": 110,
+            "hfov": 130,
             "yaw": 30,
             "pitch": 10,
             "type": "equirectangular",
