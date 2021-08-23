@@ -19,8 +19,8 @@
                     "text": "Hub Exterior",
                     "sceneId": "exterior"
                 },
-                                {
-                    "pitch": 5.1,
+                {
+                    "pitch": 5.5,
                     "yaw": 10,
                     "type": "info",
                     "text": "The Hub moved to Hayden Library in early 2020, as part od the major renovation of ASU's main library building",
@@ -44,6 +44,13 @@
                     "type": "scene",
                     "text": "Hub Interior",
                     "sceneId": "interior"                   
+                },
+                {
+                    "pitch": 15,
+                    "yaw": 20,
+                    "type": "info",
+                    "text": "The Hub is located in Hayen Library, Room 334",
+                    "sceneId": "exterior"
                 }
             ]
         }
