@@ -21,7 +21,7 @@
                 },
                                 {
                     "pitch": 5.1,
-                    "yaw": 200,
+                    "yaw": 10,
                     "type": "info",
                     "text": "The Hub moved to Hayden Library in early 2020, as part od the major renovation of ASU's main library building",
                     "sceneId": "exterior"
