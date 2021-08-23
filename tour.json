@@ -27,8 +27,8 @@
                     "sceneId": "exterior"
                 },
                 {
-                    "pitch": 10,
-                    "yaw": 150,
+                    "pitch": 8,
+                    "yaw": 120,
                     "type": "info",
                     "text": "We use these mobile display panels to showcase maps as a \"pop-up\" map exhibit",
                     "sceneId": "exterior"
