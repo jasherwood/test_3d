@@ -19,6 +19,13 @@
                     "text": "Hub Exterior",
                     "sceneId": "exterior"
                 },
+                                {
+                    "pitch": -2.1,
+                    "yaw": 50,
+                    "type": "scene",
+                    "text": "Hub Exterior",
+                    "sceneId": "exterior"
+                }
 
             ]
         },
