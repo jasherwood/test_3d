@@ -20,7 +20,7 @@
                     "sceneId": "exterior"
                 },
                 {
-                    "pitch": 5.5,
+                    "pitch": 6,
                     "yaw": 10,
                     "type": "info",
                     "text": "The Hub moved to Hayden Library in early 2020, as part of the major renovation of ASU's main library building",
@@ -46,14 +46,14 @@
                     "sceneId": "interior"                   
                 },
                 {
-                    "pitch": 15,
+                    "pitch": 18,
                     "yaw": 20,
                     "type": "info",
                     "text": "The Hub is located in Hayden Library, Room 334"
                 },
                 {
                     "pitch": 15,
-                    "yaw": -5,
+                    "yaw": -15,
                     "type": "info",
                     "text": "These decals are actually contour lines of Camelback Mountain, an iconic mountain located in the heart of metro Phoenix"
                 }
