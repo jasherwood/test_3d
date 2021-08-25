@@ -45,6 +45,7 @@
             "pitch": 1,
             "type": "equirectangular",
             "panorama": "img/viewerimage2.jpg",
+            "hotSpotDebug": true,
             "hotSpots": [
                 {
                     "pitch": 8,
