@@ -11,6 +11,7 @@
             "yaw": 45,
             "type": "equirectangular",
             "panorama": "img/viewerimage.jpg",
+            "hotSpotDebug:: true,
             "hotSpots": [
                 {
                     "pitch": -2.1,
